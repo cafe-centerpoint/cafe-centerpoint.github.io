@@ -4,7 +4,7 @@
   "description": "express view engine untuk memudahkan layouting",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app",
+    "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nona cantik nan sederhana",
